@@ -2,7 +2,7 @@
 @link    https://github.com/KabukiStarship/astartup.cookbook.git
 @file    /_Seams/01.release.h
 @author  Cale McCollough <https://cookingwithcale.org>
-@license Copyright 2014-21 (C) Cale McCollough; all rights reserved (R). This
+@license Copyright 2015-2023 (C) Cale McCollough; all rights reserved (R). This
 source code form is covered under the Kabuki Strong Source-available License.
 A copy of the license that YOU MUST READ can be found in the readme.md file
 in this folder. */
